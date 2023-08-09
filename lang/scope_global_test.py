@@ -1,6 +1,6 @@
 #!/usr/bin/python
 """
-全局变量
+全局变量测试代码
 """
 a = 0  # initialize variable a，函数外部进行初始化
 
