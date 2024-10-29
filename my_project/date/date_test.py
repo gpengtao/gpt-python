@@ -12,3 +12,7 @@ date2 = dateutil.parser.DEFAULTPARSER.parse("2023-08-09 00:00:00")
 diff = date2 - date1
 print(diff)
 print(diff.days)
+
+
+def xxx():
+    print("xxxx")

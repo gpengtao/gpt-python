@@ -6,4 +6,4 @@
 
 
 def print_a2():
-    print "a2"
+    print("a2")

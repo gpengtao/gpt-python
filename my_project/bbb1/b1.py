@@ -4,4 +4,4 @@
 @author pengtao.geng Created on 2019-07-01 19:12
 """
 
-print "b1"
+print("b1")
