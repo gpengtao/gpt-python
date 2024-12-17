@@ -9,3 +9,5 @@ class Person:
 
 person = Person('John', 23)
 person.run()
+
+print(Person('John2', 23).name)
